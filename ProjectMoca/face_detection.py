@@ -11,6 +11,7 @@ cap = cv.VideoCapture(0)
 while True:
     # Read the frame
     _, frame = cap.read()
+    frame = cv.flip(frame, 1)
 
     # Convert to grayscale
     gray = cv.cvtColor(frame, cv.COLOR_BGR2GRAY)
@@ -26,6 +27,7 @@ while True:
             (0, 255, 0),
             2
         )
+        print(column, row)
 
     cv.imshow('video', frame)
 
