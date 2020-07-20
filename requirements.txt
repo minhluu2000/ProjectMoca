@@ -1,3 +1,6 @@
 cmake
 numpy
 opencv-contrib-python==4.3.0.36
+pyautogui
+SpeechRecognition
+PyAudio
