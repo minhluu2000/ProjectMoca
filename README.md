@@ -1,7 +1,7 @@
 # ProjectMoca
  Using OpenCV and its highly trained facial features model (Viola Jones Algorithm), this simple software tracks your face and projects that position on the screen with a mouse cursor. Furthermore, clapping is used for left and right mouse inputs and voice recognition is used for keyboard input.
 
- After being inspired by a friend who challenged me to play Yuumi, a character in League of Legends, without a mouse and keyboard (a meme that the character is usually associated with), I decided to make this idea a reality. Further digging, I started to realize this can hopefully benefits the accessibility of computer for people with disability.
+ After being inspired by a friend who challenged me to play Yuumi, a character in League of Legends, without a mouse and keyboard (a meme that the character is usually associated with), I decided to make this idea a reality. Further digging, I started to realize this can hopefully improve computer's accessibility of people with disability.
 
 
 
